@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">mineSweeper</string>
+    <string name="play_minesweeper">Play Minesweeper!</string>
+    <string name="flag_mode">Flag mode</string>
+    <string name="reset_game">Reset Game</string>
+    <string name="no_mine_you_lose">No mine - you lose!</string>
+    <string name="winner">All mines found! You win!</string>
+    <string name="mine_you_lose">Mine! You lose!</string>
+    <string name="flag">F</string>
+    <string name="bomb">B</string>
+    <string name="minesAround">%1$d</string>
+</resources>

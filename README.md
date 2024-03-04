@@ -1,2 +1,4 @@
 # minesweeper
+
+Play minesweeper :) 
  
